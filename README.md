@@ -3,7 +3,6 @@
 I am an aspiring **Mechatronics Engineer** and robotics builder. I love combining software with hardware to build autonomous, moving machines.
 
 ### 🛠️ Languages & Tools
-### 🛠️ Languages & Tools
 `Java` `Python` `Arduino` `HTML5` `CSS3`
 
 ### 🤖 What I Build:
