@@ -3,11 +3,8 @@
 I am an aspiring **Mechatronics Engineer** and robotics builder. I love combining software with hardware to build autonomous, moving machines.
 
 ### 🛠️ Languages & Tools
-![Java](https://shields.io)
-![Python](https://shields.io)
-![Arduino](https://shields.io)
-![HTML5](https://shields.io)
-![CSS3](https://shields.io)
+### 🛠️ Languages & Tools
+`Java` `Python` `Arduino` `HTML5` `CSS3`
 
 ### 🤖 What I Build:
 - **Robotics:** Line Follower, Robo Soccer, RoboSumo, and RC Track Racers.
